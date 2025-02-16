@@ -1,0 +1,1 @@
+the idea is to intercept objc_msgSend to record the class types of objc args, then use that to make objc header class dumps more detailed

@@ -1,0 +1,9 @@
+Package: com.ethanarbuckle.arg-capture
+Name: arg-capture
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Captures argument class types involved in objc_msgSend calls
+Maintainer: Ethan Arbuckle
+Author: Ethan Arbuckle
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
